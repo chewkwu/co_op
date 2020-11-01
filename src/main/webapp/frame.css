@@ -1,0 +1,21 @@
+
+#depbtn {
+	background-image: url(‘Member Deposits.png’);
+}
+
+#allLoansbtn {
+	background-image: url(‘All loans.png’);
+}
+
+#allMembtn {
+	background-image: url(‘all members.png’);
+}
+
+#allUsrbtn {
+	background-image: url(‘All Users.png’);
+}
+
+img {
+	 height: 100px;
+     width: 300px;
+}
